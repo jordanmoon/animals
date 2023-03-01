@@ -34,7 +34,7 @@
 3. `0.9`
 
 4. 
-  ```type Animal = {
+  ```json type Animal = {
     animal_name: string;
     hair: number;
     feathers: number;
