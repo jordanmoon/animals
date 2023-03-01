@@ -5,11 +5,12 @@
 2. List the names of the aquatic animals
 3. What is the average number of times the letter __a__ appears in the names of aquatic animals?
 4. What is the type of the data in animals.json?
-
+5. One of the answers below is not correct. Which one?
 
 ## Answers
 1. One
-2. ```[
+2. ```
+   [
    "alligator",
    "anchovy",
    "barracuda",
@@ -33,8 +34,8 @@
    ```
 3. `0.9`
 
-4. 
-  ```json type Animal = {
+4. ``` 
+   type Animal = {
     animal_name: string;
     hair: number;
     feathers: number;
@@ -53,4 +54,6 @@
     domestic: number;
     catsize: number;
     class_type: number;
-  }```
+   }
+   ```
+
