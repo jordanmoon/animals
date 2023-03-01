@@ -1,9 +1,12 @@
 # animals
+Thank you for taking the time to do this excercise. Please time yourself answering the five questions below. If you enjoy the excercise and can do them in under X minutes, we would love to interview you.
+
+All of the questions below are based on [this dataset of zoo animals](./animals.json).
 
 ## Questions
 1. How many animals have hair?
 2. List the names of the aquatic animals
-3. What is the average number of times the letter __a__ appears in the names of aquatic animals?
+3. What is the average number of times the letter __"a"__ appears in the names of aquatic animals?
 4. What is the type of the data in animals.json?
 5. One of the answers below is not correct. Which one?
 
