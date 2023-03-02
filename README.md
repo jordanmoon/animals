@@ -15,7 +15,7 @@ Please fork this repo and send your workings back to alan.thomson@helloself.com.
 2. List the names of the aquatic animals
 3. What is the average number of times the letter __"a"__ appears in the names of aquatic animals?
 4. What is the type of the data in animals.json?
-5. Which of the answer below is not correct and why is it not correct?
+5. Which of the answers below is not correct and why is it not correct?
 
 ## Answers
 1. One
