@@ -3,10 +3,12 @@ Thank you for taking the time to do this excercise. Please time yourself answeri
 
 All of the questions below are based on [this dataset of zoo animals](./animals.json).
 
-To to start the app via nodemod, run
+To to start the app via `nodemon`, run
 ```
 yarn start
 ```
+
+Please fork this repo and send your workings back to alan.thomson@helloself.com.
 
 ## Questions
 1. How many animals have hair?
