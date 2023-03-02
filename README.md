@@ -1,5 +1,5 @@
 # animals
-Thank you for taking the time to do this excercise. Please time yourself answering the five questions below. If you enjoy the excercise and can do them in about 30 minutes, we would love to interview you.
+Thank you for taking the time to do this exercise. Please time yourself answering the five questions below. If you enjoy the exercise and can do them in about 30 minutes, we would love to interview you.
 
 All of the questions below are based on [this dataset of zoo animals](./animals.json).
 
