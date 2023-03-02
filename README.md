@@ -43,27 +43,3 @@ Please fork this repo and send your workings back to alan.thomson@helloself.com.
    ]
    ```
 3. `0.9`
-
-4. ``` 
-   type Animal = {
-    animal_name: string;
-    hair: number;
-    feathers: number;
-    eggs: number;
-    milk: number;
-    airborne: number;
-    aquatic: number;
-    predator: number;
-    toothed: number;
-    backbone: number;
-    breathes: number;
-    venomous: number;
-    fins: number;
-    legs: number;
-    tail: number;
-    domestic: number;
-    catsize: number;
-    class_type: number;
-   }
-   ```
-
