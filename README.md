@@ -3,12 +3,17 @@ Thank you for taking the time to do this excercise. Please time yourself answeri
 
 All of the questions below are based on [this dataset of zoo animals](./animals.json).
 
+To to start the app via nodemod, run
+```
+yarn start
+```
+
 ## Questions
 1. How many animals have hair?
 2. List the names of the aquatic animals
 3. What is the average number of times the letter __"a"__ appears in the names of aquatic animals?
 4. What is the type of the data in animals.json?
-5. One of the answers below is not correct. Which one?
+5. Which of the answer below is not correct and why is it not correct?
 
 ## Answers
 1. One
